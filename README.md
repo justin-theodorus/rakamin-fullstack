@@ -15,7 +15,7 @@ This project is the final task assignment for the Qwords Full Stack Developer pr
 2. **Install Dependencies**:
     ```bash
    composer install  
-4. *Run The Project Locally (http://localhost:8080)**:
+4. **Run The Project Locally (http://localhost:8080)**:
     ```bash
    php spark serve
 
