@@ -11,10 +11,12 @@ This project is the final task assignment for the Qwords Full Stack Developer pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rakamin-qwords-ci.git ```
+   git clone https://github.com/your-username/rakamin-qwords-ci.git 
 2. **Install Dependencies**:
-    ```composer install```  
-3. *Run The Project Locally (http://localhost:8080)**:
-    ```php spark serve```
+    ```bash
+   composer install  
+4. *Run The Project Locally (http://localhost:8080)**:
+    ```bash
+   php spark serve
 
 
