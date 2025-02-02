@@ -11,7 +11,7 @@ This project is the final task assignment for the Qwords Full Stack Developer pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rakamin-qwords-ci.git 
+   git clone https://github.com/justin-theodorus/rakamin-fullstack.git 
 2. **Install Dependencies**:
     ```bash
    composer install  
